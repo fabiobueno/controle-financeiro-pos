@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ControleFinanceiro</string>
+    <string name="salario">Salario</string>
+    <string name="nome">Nome:</string>
+    <string name="salvar">Salvar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="Valor">Valor</string>
+    <string name="TitleCadastroConta">Cadastrar Conta</string>
+    <string name="TitleCadastroSalario">Salario</string>
+</resources>

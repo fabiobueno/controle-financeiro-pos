@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/novo"
+        android:icon="@drawable/ic_plus"
+        android:title="Nova"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/Salario"
+        android:icon="@drawable/ic_money"
+        android:title="@string/salario"
+        app:showAsAction="always"/>
+</menu>
